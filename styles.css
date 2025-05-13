@@ -26,17 +26,18 @@ div {
     justify-content: center;
 }
 
-.entre {
+input {
     width: 300px;
     height: 65px;
     border-radius: 14px;
     border: 1px;
-    margin: 10px;
+    margin: 25px;
     background: #FFFFFF40;
     font-size: 35px;
-    padding-left: 10px;
+    padding-left: 12px;
     color: white;
     outline: none;
+    opacity: 0.8;
 }
 
 button {
